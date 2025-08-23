@@ -35,7 +35,7 @@
 - ✅ Build strong foundations in **DSA + Python**  
 - ✅ Create 25+ projects (mix of AI/ML + Full Stack)  
 - ✅ Contribute to open-source projects in ML & Web  
-- ✅ Land a high-impact role in Software/AI Engineering  
+- 🎯 Secure an **internship opportunity** in AI/ML or Software Development  
 
 ---
 
