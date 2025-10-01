@@ -24,10 +24,12 @@
 ---
 
 ## 📂 Featured Repositories  
-- [📗 DSA-in-Cpp](#) – My notes + implementations of Data Structures & Algorithms  
-- [🤖 ML-Libraries-Practice](#) – Hands-on with Python AI/ML libraries  
-- [🌐 Full-Stack-Projects](#) – Projects built from Angela Yu’s Web Dev Bootcamp  
-- [📰 Fake News Detector](#) – ML model to detect real vs fake news  
+- [📗 DSA-in-Cpp](https://github.com/Vishvgehlot/DSA-in-Cpp) – My notes + implementations of Data Structures & Algorithms  
+- [📷 Image-Classification-Civic/Non-Civic](https://github.com/Vishvgehlot/Image-Classification-Model) – Hands-on with Python AI/ML libraries  
+- [🌐 Full-Stack-Projects](https://github.com/Vishvgehlot?tab=repositories) – Projects built from Angela Yu’s Web Dev Bootcamp  
+- [📰 Fake News Detector](https://github.com/Vishvgehlot/Fake-News-Detection) – ML model to detect real vs fake news
+- [💳 Credit Card Fraud Detection](https://github.com/Vishvgehlot/Credit-Card-Fraud-Detection) - ML model which detect if a transaction is real or fake.=
+  
 
 ---
 
