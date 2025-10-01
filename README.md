@@ -42,7 +42,7 @@
 ---
 
 ## 📫 Connect With Me  
-- [LinkedIn] (https://www.linkedin.com/in/vishv-gehlot-a8b637313/)
+- [LinkedIn](https://www.linkedin.com/in/vishv-gehlot-a8b637313/)
 - **Email:** vishvgehlot10@gmail.com  
 
 ---
