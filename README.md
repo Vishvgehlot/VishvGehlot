@@ -18,7 +18,7 @@
 - **Languages:** C, C++, Python, JavaScript  
 - **Core Skills:** DSA, OOPs, Problem Solving  
 - **AI/ML:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn  
-- **Web Development:** HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
+- **Web Development:** HTML, CSS, JavaScript, React, Node.js, Express, Postgres
 - **Tools:** Git, GitHub, VS Code  
 
 ---
