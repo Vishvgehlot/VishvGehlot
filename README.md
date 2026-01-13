@@ -33,7 +33,7 @@
 
 ---
 
-## 🌱 Goals for 2025  
+## 🌱 Goals for 2026  
 - ✅ Build strong foundations in **DSA + Python**  
 - ✅ Create 25+ projects (mix of AI/ML + Full Stack)  
 - ✅ Contribute to open-source projects in ML & Web  
