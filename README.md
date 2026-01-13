@@ -15,7 +15,7 @@
 ---
 
 ## 🔧 Tech Stack  
-- **Languages:** C, C++, Python, JavaScript  
+- **Languages:** C, C++, Python, JavaScript, R 
 - **Core Skills:** DSA, OOPs, Problem Solving  
 - **AI/ML:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn  
 - **Web Development:** HTML, CSS, JavaScript, React, Node.js, Express, Postgres
